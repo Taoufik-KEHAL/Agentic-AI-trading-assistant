@@ -15,3 +15,6 @@ pip install -r requirements.txt
 uvicorn app.api.main:app --reload
 pytest
 ```
+
+## Roadmap
+See `ISSUES.md` for remaining implementation tasks and priorities.
